@@ -2,11 +2,11 @@
   padding-top: 5rem;
   background-color: #caf7c9;
 }
-section{
+section {
   padding-top: 5rem;
   background-color: #caf7c9;
 }
-#about{
+#about {
   background-color: #fff;
 }
 #pendidikan {
@@ -14,19 +14,4 @@ section{
 }
 #contact {
   background-color: #fff;
-}
-/*.gotopbtn {
-  background-color: #fff;
-  position: fixed;
-  width: 50px;
-  height: 50px;
-  background: #27ae60;
-  bottom: 40px;
-  right: 50px;
-  border-radius: 40px;
-
-  text-decoration: none;
-  text-align: center;
-  line-height: 50px;
-  color: #fff;*/
 }
